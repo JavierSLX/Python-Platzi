@@ -1,0 +1,8 @@
+print(type(2))
+print(type(2.0))
+print(type('platzi'))
+print(type(False))
+print(type(3 == 5))
+print(type(2 + 3))
+print(type([1, 2, 3]))
+print(type({'hola': 1}))
