@@ -1,0 +1,13 @@
+Instalar PIP hay que ejecutar el archivo
+python get-pip.py
+
+Instalar virtualenv
+pip install virtualenv
+
+Crear entorno virtual (en la carpeta donde se creara)
+virtualenv venv
+env/Scripts/activate.bat
+env/Scripts/deactivate.bat
+
+Instalar dependencias puestas en el archivo requirements.txt
+pip install -r requirements.txt
